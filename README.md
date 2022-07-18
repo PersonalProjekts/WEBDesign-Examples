@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/23036697/179611159-ab4b83f0-d2cb-4fea-bd1b-6f10a1178394.pngg">
+  <img src="https://user-images.githubusercontent.com/23036697/179611159-ab4b83f0-d2cb-4fea-bd1b-6f10a1178394.png">
 </p>
 
 ![Badge Linguagem](http://img.shields.io/static/v1?label=LINGUAGEM&message=HTML%20/%20CSS%20/%20JS&color=informational&style=plastic)
